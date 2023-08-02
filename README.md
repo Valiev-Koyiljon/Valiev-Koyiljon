@@ -1,37 +1,45 @@
-<h2 align="center">Hi there 👋</h2>
+<h1 align="center">Hi 👋, I'm Sardor Abdirayimov</h1>
+<h3 align="center">A passionate AI Research engineer with a focus on deep learning and computer vision</h3>
 
-<h2 align="center">About me</h2>
-<p align="center">Greetings, fellow explorer of the digital realm! I am Koyiljon Valiev, an AI Research Engineer with a relentless passion for delving into the fascinating domains of deep learning, machine learning, and computer vision. Armed with the power of algorithms and the artistry of neural networks, I embark on a quest to unravel the mysteries of intelligent machines. When I'm not traversing the data universe, you'll find me engaged in captivating games of chess, or setting forth on short walking trips, finding inspiration in the world around me. My journey in coding is a cosmic voyage of creativity, where I craft elegant solutions and breathe life into cutting-edge technologies. Curiosity fuels my endeavors, and I cherish the opportunity to collaborate and learn from the brightest minds in the field. Feel free to join me on this voyage of innovation and exploration—I'm always eager to share knowledge and exchange ideas. 🚀</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
-<h2 align="center">🛠 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/matplotlib-%23FF7400.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/seaborn-%23066566.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+-  My **Web Portfolio 💼**: [sardorabdirayimov.netlify.app](https://sardorabdirayimov.netlify.app/)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@sardorabdirayimov)
+
+- 📫 How to reach me **abdirayimovsardor20@gmail.com**
+
+- ⚡ Fun fact **I love hiking 🏔️🗺️**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
+- [Backpropagation | Cheaper algorithm than you think](https://medium.com/@sardorabdirayimov/backpropagation-cheaper-algorithm-than-you-think-4353610550b3?source=rss-153f1c1151ed------2)
+- [Exploring IPython: Beyond Python Interactivity | Part 1](https://medium.com/@sardorabdirayimov/exproling-ipython-beyond-python-interactivity-part-1-4ac662667eaf?source=rss-153f1c1151ed------2)
+- [Image Collection with Python and Telegram API via Telethon in inline bots](https://medium.com/@sardorabdirayimov/image-collection-with-python-and-telegram-api-via-telethon-in-inline-bots-cf64c5ab092b?source=rss-153f1c1151ed------2)
+<!-- BLOG-POST-LIST:END -->
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
+  <a href="https://kaggle.com/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
+  <a href="https://instagram.com/sardor_abdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardor_abdirayimov" height="30" width="40" /></a>
+  <a href="https://medium.com/@sardorabdirayimov20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sardorabdirayimov20" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/sardorabdirayimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sardorabdirayimov" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valiev-Koyiljon&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit
 
-<h2 align="center">Fun Facts</h2>
-<p align="center">🌟 I have collected a constellation of stars with <strong>X</strong> repositories on GitHub.<br>
-  🚀 My coding journey is a cosmic voyage with <strong>Y</strong> projects launched into the open-source galaxy.<br>
-  📈 My GitHub activity speaks volumes with <strong>Z</strong> commits exploring the code universe.</p>
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/koyiljonvaliev2003/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@koyiljonvaliev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:koyiljonvaliev112@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-```
-
-With the updated description and additional elements, your GitHub profile section now captures your expertise, passion for learning, and adventurous spirit, making it attractive and engaging for visitors. Feel free to further customize it as per your preferences. Happy coding and exploring the digital frontier! 🌌
