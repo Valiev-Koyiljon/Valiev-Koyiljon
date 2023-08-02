@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **koyiljonvaliev112@gmail.com**
 
-- ⚡ Fun fact **I love walking and playing chess. 🏔️🗺️**
+- ⚡ Fun fact, **I love walking and playing chess. 🏔️🗺️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
