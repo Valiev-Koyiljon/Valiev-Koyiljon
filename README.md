@@ -5,11 +5,11 @@
 
 -  My **Web Portfolio 💼**: [sardorabdirayimov.netlify.app](https://sardorabdirayimov.netlify.app/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@sardorabdirayimov)
+- 📝 I regularly write articles on [Medium](https://medium.com/@koyiljonvaliev)
 
-- 📫 How to reach me **abdirayimovsardor20@gmail.com**
+- 📫 How to reach me **koyiljonvaliev112@gmail.com**
 
-- ⚡ Fun fact **I love hiking 🏔️🗺️**
+- ⚡ Fun fact **I love walking and playing chess. 🏔️🗺️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
