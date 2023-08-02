@@ -52,7 +52,6 @@ Frameworks, Platforms and Libraries
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Real-Time Face Mask Detection with PyTorch, Python, OpenCV, and MTCNN📈](https://www.youtube.com/watch?v=xf0f9s3kzEg&list=PL2r35oyWT4fzZbljo-f9zxb8usM0ete8Z)
--
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
