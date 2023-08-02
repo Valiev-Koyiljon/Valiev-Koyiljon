@@ -51,11 +51,8 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [From hackathon participant to organiser to judge📈](https://www.youtube.com/watch?v=t_PXc2ah33s)
-- [Did you try these AI tools?🔥](https://www.youtube.com/watch?v=PZX35IiksAw)
-- [Manage out of control emails with sanebox💯 #30dayschallenge #technology](https://www.youtube.com/watch?v=_cy2No17LYs)
-- [Lucidchart is best🔥 #30dayschallenge #technology](https://www.youtube.com/watch?v=HLrg6Jv5zSE)
-- [Codemate is here to make you 10x more productive while programming🔥 #30dayschallenge #technology](https://www.youtube.com/watch?v=x1Si9pVR9hY)
+- [Real-Time Face Mask Detection with PyTorch, Python, OpenCV, and MTCNN📈](https://www.youtube.com/watch?v=xf0f9s3kzEg&list=PL2r35oyWT4fzZbljo-f9zxb8usM0ete8Z)
+-
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
