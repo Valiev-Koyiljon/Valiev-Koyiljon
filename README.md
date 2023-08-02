@@ -23,9 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/koyiljonvaliev2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koyiljonvaliev2003" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/koyiljonvaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="koyiljon valiev" height="30" width="40" /></a>
-   <a href="https://jovian.com/valievkoyiljon112" target="blank"><img align="center" src="https://jovian.ai/assets/logos/jovian-logo.svg" alt="ValievKoyiljon" height="30" width="30" /></a>
-  <a href="https://medium.com/@koyiljonvaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koyiljonvaliev" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/koyiljonvaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="koyiljonvaliev" height="30" width="40" /></a>
+<a href="https://jovian.com/valievkoyiljon112" target="blank"><img align="center" src="https://jovian.ai/assets/logos/jovian-logo.svg" alt="ValievKoyiljon" height="30" width="30" /></a>
+<a href="https://medium.com/@koyiljonvaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koyiljonvaliev" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@KoyiljonValiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ValievKoyiljon" height="30" width="40" /></a>
 </p>
 
