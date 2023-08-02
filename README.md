@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Valiev-Koyiljon&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
--  My **Web Portfolio 💼**: [sardorabdirayimov.netlify.app](https://sardorabdirayimov.netlify.app/)
+/*-  My **Web Portfolio 💼**: [sardorabdirayimov.netlify.app](https://sardorabdirayimov.netlify.app/)*/
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@koyiljonvaliev)
 
