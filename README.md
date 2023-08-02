@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sardor Abdirayimov</h1>
+<h1 align="center">Hi 👋 Valiev Koyiljon</h1>
 <h3 align="center">A passionate AI Research engineer with a focus on deep learning and computer vision</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirayimovs&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Valiev-Koyiljon&label=Profile%20views&color=0e75b6&style=flat" alt="abdirayimovs" /> </p>
 
 -  My **Web Portfolio 💼**: [sardorabdirayimov.netlify.app](https://sardorabdirayimov.netlify.app/)
 
