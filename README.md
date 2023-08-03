@@ -12,9 +12,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
-- [Backpropagation | Cheaper algorithm than you think](https://medium.com/@sardorabdirayimov/backpropagation-cheaper-algorithm-than-you-think-4353610550b3?source=rss-153f1c1151ed------2)
-- [Exploring IPython: Beyond Python Interactivity | Part 1](https://medium.com/@sardorabdirayimov/exproling-ipython-beyond-python-interactivity-part-1-4ac662667eaf?source=rss-153f1c1151ed------2)
-- [Image Collection with Python and Telegram API via Telethon in inline bots](https://medium.com/@sardorabdirayimov/image-collection-with-python-and-telegram-api-via-telethon-in-inline-bots-cf64c5ab092b?source=rss-153f1c1151ed------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -29,6 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="URL_TO_STREAMLIT_LOGO" alt="streamlit" width="40" height="40"/>
+</a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
