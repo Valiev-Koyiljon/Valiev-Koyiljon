@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The use of Artificial Intelligence (AI) in business](https://medium.com/@koyiljonvaliev/the-use-of-artificial-intelligence-ai-in-business-724a6d6de82b)
 -  [The Use Case of AI in Marketing](https://medium.com/@koyiljonvaliev/artificial-intelligence-ai-is-transforming-the-world-as-we-know-it-and-the-marketing-industry-is-7f7de26780b3)
-- 
+  
 
 <!-- BLOG-POST-LIST:END -->
 
