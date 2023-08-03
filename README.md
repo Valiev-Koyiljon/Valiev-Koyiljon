@@ -1,6 +1,4 @@
-Sure, I can help you modify the code to include the mentioned skills and remove the "Arduino" skill. Here's the updated code:
 
-```html
 <h1 align="center">Hi 👋 Valiev Koyiljon</h1>
 <h3 align="center">A passionate AI Research engineer with a focus on deep learning and computer vision</h3>
 
@@ -48,6 +46,4 @@ Sure, I can help you modify the code to include the mentioned skills and remove 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-```
 
-I've added Pytorch, Tensorflow, Scikit-Learn, Keras, Numpy, Matplotlib, and removed Arduino from the list of skills.
