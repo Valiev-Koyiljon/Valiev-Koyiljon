@@ -11,7 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [“Awesome Lists” — the Ocean of great resources for everyone](https://medium.com/@sardorabdirayimov/awesome-lists-the-ocean-of-great-resources-for-everyone-864f85c34af1?source=rss-153f1c1151ed------2)
+- [The use of Artificial Intelligence (AI) in business](https://medium.com/@koyiljonvaliev/the-use-of-artificial-intelligence-ai-in-business-724a6d6de82b)
+-  [The Use Case of AI in Marketing](https://medium.com/@koyiljonvaliev/artificial-intelligence-ai-is-transforming-the-world-as-we-know-it-and-the-marketing-industry-is-7f7de26780b3)
+- 
 
 <!-- BLOG-POST-LIST:END -->
 
