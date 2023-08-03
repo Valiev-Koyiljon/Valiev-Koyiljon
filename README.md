@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valiev Koyiljon</h1>
 <h3 align="center">A passionate AI Research engineer with a focus on deep learning and computer vision</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Valiev-Koyiljon&label=Profile%20views&color=0e75b6&style=flat" alt="Koyiljon-valiev" /> </p>
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@koyiljonvaliev)
 
@@ -10,7 +9,9 @@
 - ⚡ Fun fact, **I love walking and playing chess. 🏔️🗺️**
 
 <!-- Shields.io badges -->
+
 <p align="left">
+ <img src="https://komarev.com/ghpvc/?username=Valiev-Koyiljon&label=Profile%20views&color=0e75b6&style=flat" alt="Koyiljon-valiev" /> 
   <a href="https://github.com/Valiev-Koyiljon" target="_blank">
     <img src="https://img.shields.io/github/stars/Valiev-Koyiljon?style=social" alt="Stars" />
   </a>
