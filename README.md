@@ -14,11 +14,6 @@
   <a href="https://github.com/Valiev-Koyiljon" target="_blank">
     <img src="https://img.shields.io/github/stars/Valiev-Koyiljon?style=social" alt="Stars" />
   </a>
-  <a href="https://github.com/Valiev-Koyiljon" target="_blank">
-    <img src="https://img.shields.io/github/forks/Valiev-Koyiljon?style=social" alt="Forks" />
-  </a>
-  <a href="https://github.com/Valiev-Koyiljon" target="_blank">
-    <img src="https://img.shields.io/github/watchers/Valiev-Koyiljon?style=social" alt="Watchers" />
   </a>
   <a href="https://github.com/Valiev-Koyiljon?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/repo-size/Valiev-Koyiljon/Valiev-Koyiljon?style=flat-square" alt="Repository Size" />
