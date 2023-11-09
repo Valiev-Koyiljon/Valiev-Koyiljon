@@ -4,7 +4,7 @@
 
 
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@koyiljonvaliev)
+- 📝 I regularly write articles on [Medium](https://medium.com/@valievkoyiljon112)
 
 - 📫 How to reach me **koyiljonvaliev112@gmail.com**
 
