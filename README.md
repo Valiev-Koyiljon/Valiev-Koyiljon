@@ -3,7 +3,7 @@
 
 
 
-- My Portfolio Website: https://valiev-koyiljon.github.io/Web/
+- 🌐 My Portfolio Website: https://valiev-koyiljon.github.io/Web/
 - 📝 I regularly write articles on [Medium](https://medium.com/@valievkoyiljon112)
 
 - 📫 How to reach me **koyiljonvaliev112@gmail.com**
