@@ -16,14 +16,6 @@
 - [The Use Case of AI in Marketing](https://medium.com/@koyiljonvaliev/artificial-intelligence-ai-is-transforming-the-world-as-we-know-it-and-the-marketing-industry-is-7f7de26780b3)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/koyiljonvaliev2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koyiljonvaliev2003" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/koyiljonvaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="koyiljonvaliev" height="30" width="40" /></a>
-  <a href="https://jovian.com/valievkoyiljon112" target="_blank"><img align="center" src="https://images.yourstory.com/cs/images/companies/Jovian-1599222145437.jpg?fm=png&auto=formatar=1:1&mode=fill&fill=solid" alt="ValievKoyiljon" height="30" width="30" /></a>
-  <a href="https://medium.com/@koyiljonvaliev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koyiljonvaliev" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@KoyiljonValiev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ValievKoyiljon" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
