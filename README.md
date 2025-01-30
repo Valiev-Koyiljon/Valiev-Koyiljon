@@ -10,13 +10,6 @@
 - ⚡ Fun fact, **I love walking and playing chess. 🏔️🗺️**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Machines That See: My Adventure with AI](https://medium.com/@valievkoyiljon112/machines-that-see-my-adventure-with-ai-07f1858c0a76)
-- [The Use Case of AI in Marketing](https://medium.com/@koyiljonvaliev/artificial-intelligence-ai-is-transforming-the-world-as-we-know-it-and-the-marketing-industry-is-7f7de26780b3)
-<!-- BLOG-POST-LIST:END -->
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
