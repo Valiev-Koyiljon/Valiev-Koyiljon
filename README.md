@@ -46,20 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-<!-- Shields.io badges -->
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=Valiev-Koyiljon&label=Profile%20views&color=0e75b6&style=flat" alt="Koyiljon-valiev" /> 
-  <a href="https://github.com/Valiev-Koyiljon" target="_blank">
-    <img src="https://img.shields.io/github/stars/Valiev-Koyiljon?style=social" alt="Stars" />
-  </a>
-  </a>
-  <a href="https://github.com/Valiev-Koyiljon?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/repo-size/Valiev-Koyiljon/Valiev-Koyiljon?style=flat-square" alt="Repository Size" />
-  </a>
-  <a href="https://github.com/Valiev-Koyiljon" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/Valiev-Koyiljon/Valiev-Koyiljon?style=flat-square" alt="Last Commit" />
-  </a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valiev-Koyiljon&show_icons=true&locale=en&layout=compact" alt="Valiev-Koyiljon" /></p>
 
