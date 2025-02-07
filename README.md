@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@valievkoyiljon112)
 
-- 📫 How to reach me **koyiljonvaliev112@gmail.com**
+- 📫 How to reach me **valievkoyiljon112@gmail.com**
 
 - ⚡ Fun fact, **I love walking and playing chess. 🏔️🗺️**
 
