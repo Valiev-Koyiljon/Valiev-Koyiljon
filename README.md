@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valiev Koyiljon</h1>
-<h3 align="center">An enthusiastic AI Research Engineer specializing in Multimodal Models</h3>
+<h3 align="center">AI Research Engineer specializing in Multimodal Models</h3>
 
 
 
