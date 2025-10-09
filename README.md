@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Valiev Koyiljon</h1>
-<h3 align="center">AI Research Engineer specializing in Multimodal Models</h3>
+<h3 align="center">AI Engineer</h3>
 
-
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@valievkoyiljon112)
+- 🔬 **Research Interests:** LLMs, Agents, Computer Vision, Audio, and Emerging Technologies.  
 
 - 📫 How to reach me **valievkoyiljon112@gmail.com**
 
-- ⚡ Fun fact, **I love walking and playing chess. 🏔️🗺️**
+- ⚡ Fun fact: **I love walking and playing chess. 🏔️🗺️**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
