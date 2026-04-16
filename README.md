@@ -88,22 +88,35 @@ AI / ML Engineer with 3+ years of experience building production AI systems. Cur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valiev-Koyiljon&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=2563EB" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valiev-Koyiljon&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Valiev-Koyiljon&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Valiev-Koyiljon&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Valiev-Koyiljon&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valiev-Koyiljon&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valiev-Koyiljon&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Valiev-Koyiljon&theme=github-dark-blue&hide_border=true&background=00000000"/>
+    <img src="https://streak-stats.demolab.com?user=Valiev-Koyiljon&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
+  </picture>
 </p>
 
-<!-- Contribution graph animation -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valiev-Koyiljon&theme=minimal&hide_border=true&area=true&color=2563EB&line=2563EB&point=1a1a2e" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Valiev-Koyiljon&theme=github-dark&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valiev-Koyiljon&theme=github-light&hide_border=true&area=true" alt="Contribution Graph"/>
+  </picture>
 </p>
 
-<!-- Animated snake eating contributions -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Valiev-Koyiljon/Valiev-Koyiljon/output/github-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valiev-Koyiljon/Valiev-Koyiljon/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Valiev-Koyiljon/Valiev-Koyiljon/output/github-snake.svg" alt="Snake animation"/>
+  </picture>
 </p>
 
 ---
