@@ -36,6 +36,48 @@ AI / ML Engineer with 3+ years of experience building production AI systems. Cur
 
 ---
 
+### 🏅 Awards & Scholarships
+
+| Year | Award |
+|------|-------|
+| 2025 | 🥈 **2nd Place** — HumbleBeeAI Hackathon: Data Science Challenge |
+| 2023 | 🏆 **1st Place** — Woosong University Capstone Competition (among 200 teams) |
+| 2023 | 🎖️ **President's Award** — Woosong University |
+| 2023 | 🎓 **100% Merit Scholarship** — Woosong University (Sep–Dec 2023) |
+| 2023 | 🥇 **1st Place** — IoT Learning Concert |
+| 2023 | 🥈 **2nd Place** — Machine Learning Lab Learning Concert |
+
+---
+
+### 📄 Publication
+
+> **Investigating a Reinforcement Learning Framework for Smart Grid Energy Management: Market Trading, Demand Forecasting, and Vertical Agent Integration**  
+> *K. Valiev* — Journal of the Korea Institute of Communication Sciences (JKICS), Vol. 51, Issue 2, 2026 ✅ Published
+
+---
+
+### 📜 Patents
+
+| # | Title | Status |
+|---|-------|--------|
+| 1 | Smart Grid Technology — AI-driven smart grid optimization | ✅ Processed |
+| 2 | Smart Grid Technology — Intelligent energy management system | ⏳ Under Review |
+
+> Filed at Recs Innovation Ltd, South Korea (2024)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Uzbek-English LM (140M)**](https://github.com/Valiev-Koyiljon) | Pre-trained a decoder-only Transformer from scratch on 2x A100 GPUs | `PyTorch` `BPE` `Transformers` |
+| [**GPT-2 from Scratch**](https://github.com/Valiev-Koyiljon) | Full GPT-2 implementation + spam classifier + instruction tuning | `PyTorch` `CLM` `Fine-tuning` |
+| [**Multimodal Video RAG**](https://github.com/Valiev-Koyiljon/Multimodal-Video-Search-and-Interaction-with-RAG) | Video Q&A with Whisper, LLaVA, BridgeTower & LanceDB | `LangChain` `Gradio` `RAG` |
+| [**Seq2Seq Chatbot**](https://github.com/Valiev-Koyiljon/seq2seq-attention-chatbot) | Attention-based chatbot trained on 220K+ movie dialogs | `PyTorch` `GRU` `Attention` |
+
+---
+
 ### 🛠️ Tech Stack
 
 **AI / ML Frameworks**
