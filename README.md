@@ -105,19 +105,6 @@ AI / ML Engineer with 3+ years of experience building production AI systems. Cur
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Valiev-Koyiljon&theme=github-dark&hide_border=true&area=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valiev-Koyiljon&theme=github-light&hide_border=true&area=true" alt="Contribution Graph"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valiev-Koyiljon/Valiev-Koyiljon/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Valiev-Koyiljon/Valiev-Koyiljon/output/github-snake.svg" alt="Snake animation"/>
-  </picture>
-</p>
 
 ---
 
