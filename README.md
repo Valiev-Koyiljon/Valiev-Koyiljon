@@ -108,6 +108,4 @@ AI / ML Engineer with 3+ years of experience building production AI systems. Cur
 
 ---
 
-<p align="center">
-  <a href="https://valiev-koyiljon.github.io/Web">🌐 valiev-koyiljon.github.io/Web</a>
-</p>
+
